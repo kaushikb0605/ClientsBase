@@ -1,0 +1,21 @@
+.not-found{
+    position:fixed;
+    top:0;
+    width: 100vw;
+    height: 100vh;
+    background-color:white;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.footer{
+    margin-top: 33rem;
+    padding: 1rem;
+    background-color: rgb(235, 195, 64);
+    position: fixed;
+    left: 0;
+    width: 100%;
+    align-items: center;
+  }
+
