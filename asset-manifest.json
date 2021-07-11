@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kaushikb0605/js-serverrepo/users/static/css/main.9cffc223.chunk.css",
+    "main.js": "/kaushikb0605/js-serverrepo/users/static/js/main.677b41a4.chunk.js",
+    "main.js.map": "/kaushikb0605/js-serverrepo/users/static/js/main.677b41a4.chunk.js.map",
+    "runtime-main.js": "/kaushikb0605/js-serverrepo/users/static/js/runtime-main.d7bcaaf4.js",
+    "runtime-main.js.map": "/kaushikb0605/js-serverrepo/users/static/js/runtime-main.d7bcaaf4.js.map",
+    "static/css/2.455652b6.chunk.css": "/kaushikb0605/js-serverrepo/users/static/css/2.455652b6.chunk.css",
+    "static/js/2.8727006c.chunk.js": "/kaushikb0605/js-serverrepo/users/static/js/2.8727006c.chunk.js",
+    "static/js/2.8727006c.chunk.js.map": "/kaushikb0605/js-serverrepo/users/static/js/2.8727006c.chunk.js.map",
+    "index.html": "/kaushikb0605/js-serverrepo/users/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/kaushikb0605/js-serverrepo/users/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.9cffc223.chunk.css.map": "/kaushikb0605/js-serverrepo/users/static/css/main.9cffc223.chunk.css.map",
+    "static/js/2.8727006c.chunk.js.LICENSE.txt": "/kaushikb0605/js-serverrepo/users/static/js/2.8727006c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7bcaaf4.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.8727006c.chunk.js",
+    "static/css/main.9cffc223.chunk.css",
+    "static/js/main.677b41a4.chunk.js"
+  ]
+}
